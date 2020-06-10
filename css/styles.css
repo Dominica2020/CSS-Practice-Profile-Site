@@ -110,10 +110,11 @@ button {
   font-family: "Montserrat", sans-serif;
   font-size: 1rem;
   font-weight: normal;
-  border-radius: 8px;
+  border-radius: 12px;
   margin-top: 25px;
   margin-bottom: 50px;
   background-image: linear-gradient(#24e9f0, #11999e);
+  border-style: none;
 }
 
 button:hover {
@@ -131,3 +132,8 @@ button:hover {
   font-size: 10px;
   padding-top: 20px;
 }
+
+.fas {
+  color: red;
+}
+
